@@ -18,9 +18,9 @@ import java.util.Map;
  * @version 创建时间:2016-4-21上午10:30:50
  * @parameter E-mail:15895982509@163.com
  */
-public class HttpUtil {
+public class HttpRequestUtil {
 
-    private static Logger logger = Logger.getLogger(HttpUtil.class);
+    private static Logger logger = Logger.getLogger(HttpRequestUtil.class);
 
     /**
      * 获取request请求的ip地址
