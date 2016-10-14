@@ -1,4 +1,4 @@
-package com.leo.util.model;
+package model;
 
 
 public class Log2 {

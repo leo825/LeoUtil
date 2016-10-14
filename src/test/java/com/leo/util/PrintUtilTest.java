@@ -1,6 +1,6 @@
 package com.leo.util;
 
-import com.leo.util.model.User;
+import model.User;
 import org.junit.Test;
 
 import java.util.*;

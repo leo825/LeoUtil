@@ -3,7 +3,7 @@ package com.leo.util.filetest;
 
 import com.leo.util.FilePathUtil;
 
-import static junit.framework.TestCase.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 /**
  * <h6>Description:<h6>

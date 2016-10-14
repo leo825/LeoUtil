@@ -1,7 +1,7 @@
-package com.leo.util.model;
+package model;
 
 
-public class BusinessLog extends Log implements interfaces{
+public class BusinessLog extends Log implements interfaces {
 
     private String operationName;
 

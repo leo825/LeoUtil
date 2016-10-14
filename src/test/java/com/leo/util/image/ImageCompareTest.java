@@ -1,7 +1,7 @@
 package com.leo.util.image;
 
-import com.leo.util.test.TestUtil;
 import junit.framework.TestCase;
+import test.TestUtil;
 
 import java.io.File;
 

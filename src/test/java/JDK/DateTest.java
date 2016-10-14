@@ -1,4 +1,4 @@
-package com.leo.util.JDK;
+package JDK;
 
 import org.junit.Test;
 

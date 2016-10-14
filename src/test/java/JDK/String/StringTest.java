@@ -1,4 +1,4 @@
-package com.leo.util.JDK.String;
+package JDK.String;
 
 
 import junit.framework.TestCase;

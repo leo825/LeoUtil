@@ -1,7 +1,7 @@
 package com.leo.util;
 
-import com.leo.util.test.TestUtil;
 import org.junit.Test;
+import test.TestUtil;
 
 import java.io.File;
 import java.io.IOException;

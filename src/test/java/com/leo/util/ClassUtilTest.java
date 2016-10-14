@@ -1,8 +1,8 @@
 package com.leo.util;
 
-import com.leo.util.model.BusinessLog;
-import com.leo.util.test.TestUtil;
+import model.BusinessLog;
 import org.junit.Test;
+import test.TestUtil;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;

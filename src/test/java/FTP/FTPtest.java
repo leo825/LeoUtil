@@ -1,4 +1,4 @@
-package com.leo.util.FTP;
+package FTP;
 
 import com.leo.util.ftp.FTPConstant;
 import com.leo.util.ftp.FTPFactory;

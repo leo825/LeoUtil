@@ -11,7 +11,7 @@ public class ConfigUtilTest extends TestCase {
         URL url = ConfigUtil.findAsResource("log4j.properties");
         System.out.println(url);
 
-        url = ConfigUtil.findAsResource("leo-default.properties");
+        url = ConfigUtil.findAsResource("0opslab-default.properties");
         System.out.println(url);
 
         url = ConfigUtil.findAsResource("ali.gif");

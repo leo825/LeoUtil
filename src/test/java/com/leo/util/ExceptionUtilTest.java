@@ -15,7 +15,7 @@ public class ExceptionUtilTest  {
             e.printStackTrace();
             Thread.sleep(10);
             System.out.println("========");
-            System.out.println(ExceptionUtil.stackTraceToString(e,"com.opslab"));
+            System.out.println(ExceptionUtil.stackTraceToString(e,"com.leo"));
         }
     }
 

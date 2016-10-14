@@ -1,4 +1,4 @@
-package com.leo.util.model;
+package model;
 
 
 import java.io.Serializable;

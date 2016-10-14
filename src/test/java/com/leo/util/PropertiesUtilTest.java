@@ -1,7 +1,7 @@
 package com.leo.util;
 
 import org.junit.Test;
-import com.leo.util.test.TestUtil;
+import test.TestUtil;
 
 import java.nio.charset.Charset;
 

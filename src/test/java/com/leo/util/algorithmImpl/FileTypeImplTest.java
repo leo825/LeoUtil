@@ -2,7 +2,7 @@ package com.leo.util.algorithmImpl;
 
 import junit.framework.TestCase;
 import org.junit.Test;
-import com.leo.util.test.TestUtil;
+import test.TestUtil;
 
 import java.io.File;
 

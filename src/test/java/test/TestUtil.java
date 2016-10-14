@@ -1,4 +1,4 @@
-package com.leo.util.test;
+package test;
 
 
 public class TestUtil {
