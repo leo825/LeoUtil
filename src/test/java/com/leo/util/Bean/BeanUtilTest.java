@@ -1,10 +1,13 @@
 package com.leo.util.Bean;
 
 import com.leo.util.StringUtil;
+import com.leo.util.bean.BeanUtil;
+import com.leo.util.bean.PropertyFilter;
+import com.leo.util.model.BusinessLog;
+import com.leo.util.model.Log;
+import com.leo.util.model.Log2;
 import junit.framework.TestCase;
-import model.BusinessLog;
-import model.Log;
-import model.Log2;
+
 import org.junit.Test;
 
 import java.lang.reflect.InvocationTargetException;

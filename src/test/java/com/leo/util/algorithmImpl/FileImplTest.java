@@ -1,7 +1,7 @@
 package com.leo.util.algorithmImpl;
 
+import com.leo.util.test.TestUtil;
 import org.junit.Test;
-import test.TestUtil;
 
 public class FileImplTest {
 

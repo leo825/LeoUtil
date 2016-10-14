@@ -2,7 +2,7 @@ package com.leo.util.image;
 
 import com.leo.util.RandomUtil;
 import junit.framework.TestCase;
-import test.TestUtil;
+import com.leo.util.test.TestUtil;
 
 /**
  * 测试验证码生成

@@ -2,13 +2,15 @@ package com.leo.util.filetest;
 
 import com.leo.util.CharsetUtil;
 import com.leo.util.FileUtil;
+import com.leo.util.test.TestUtil;
 import org.junit.Test;
-import test.TestUtil;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.Date;
 import java.util.List;
+
+import static junit.framework.TestCase.assertEquals;
 
 public class FileUtilTest  {
 

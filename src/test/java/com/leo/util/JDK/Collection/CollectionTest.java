@@ -1,6 +1,7 @@
 package com.leo.util.JDK.Collection;
 
-import model.User;
+
+import com.leo.util.model.User;
 import org.junit.Test;
 
 import java.util.ArrayList;

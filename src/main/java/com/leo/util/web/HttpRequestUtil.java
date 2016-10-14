@@ -1,4 +1,4 @@
-package com.leo.util.http;
+package com.leo.util.web;
 
 import org.apache.log4j.Logger;
 import org.dom4j.Document;

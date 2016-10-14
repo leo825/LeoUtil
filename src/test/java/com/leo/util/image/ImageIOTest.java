@@ -2,7 +2,7 @@ package com.leo.util.image;
 
 import org.junit.Ignore;
 import org.junit.Test;
-import test.TestUtil;
+import com.leo.util.test.TestUtil;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

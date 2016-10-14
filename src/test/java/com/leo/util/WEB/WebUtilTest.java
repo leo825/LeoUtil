@@ -1,6 +1,7 @@
 package com.leo.util.WEB;
 
 import com.leo.util.CharsetUtil;
+import com.leo.util.web.WebUtil;
 import junit.framework.TestCase;
 import org.junit.Test;
 
