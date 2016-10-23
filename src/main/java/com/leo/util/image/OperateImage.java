@@ -104,6 +104,7 @@ public final class OperateImage {
      */
     public static void reduceImageEqualProportion(String srcImagePath, String toImagePath, int ratio) throws IOException {
         File file = new File(srcImagePath);
+        //File toImage = new File(toImagePath);
         try(FileOutputStream out = new FileOutputStream(toImagePath)) {
             //读入文件
             String prefix= FileUtil.suffix(file);

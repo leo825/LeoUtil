@@ -1,6 +1,7 @@
 package com.leo.util.image;
 
 import junit.framework.TestCase;
+import org.junit.Test;
 import test.TestUtil;
 
 import javax.imageio.ImageIO;
@@ -14,8 +15,8 @@ import java.util.Arrays;
  */
 public class OperateImageTest extends TestCase {
 
-    private String path = TestUtil.path + "/image/";
-    private String path_temp = TestUtil.path + "/temp/image/";
+    private String path = TestUtil.path + "image/";
+    private String path_temp = TestUtil.path + "temp/image/";
     /**
      * 剪切图片
      * @throws Exception
