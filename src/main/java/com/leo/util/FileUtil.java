@@ -403,6 +403,28 @@ public final class FileUtil {
     }
 
     /**
+     * 如果目录不存在就创建目录
+     * @dirName 待检查的目录
+     * @return 是否存在
+     */
+    public static boolean checkDir(String dirName) {
+        File dir = new File(dirName);
+        if (dir.exists()) {
+            return true;
+        }
+        if (!dirName.endsWith(File.separator)) {
+            dirName = dirName + File.separator;
+        }
+        //创建目录
+        if (dir.mkdirs()) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+
+    /**
      * 创建文件支持多级目录
      *
      * @param filePath 需要创建的文件
